@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS hr.user_roles;
+DROP TABLE IF EXISTS hr.roles;
+DROP TABLE IF EXISTS hr.users;
